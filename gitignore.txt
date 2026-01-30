@@ -1,3 +1,7 @@
+#nodemodules
+node_modules/
+
+
 # Sistema Operacional: Windows
 Thumbs.db
 Desktop.ini
